@@ -1,6 +1,6 @@
 # OpenClaw Expert Skill 🦞
 
-A Claude/Pi skill that provides deep expertise on [OpenClaw](https://docs.openclaw.ai) - the universal AI agent gateway for WhatsApp, Telegram, Discord, iMessage, and more.
+A Claude skill that provides deep expertise on [OpenClaw](https://docs.openclaw.ai) - the universal AI agent gateway for WhatsApp, Telegram, Discord, iMessage, and more.
 
 ## What's Included
 
